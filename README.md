@@ -1,2 +1,5 @@
-# AI-ID3-S_Learning
-generate an ID3 decision tree using traing and test data
+# ai-id3
+generate an ID3 decision tree using training and test data.  Datasets include:
+
+[taylored UCI iris flower data](https://archive.ics.uci.edu/ml/datasets/iris)  
+[taylored UCI cancer data](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) 
